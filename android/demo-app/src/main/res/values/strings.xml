@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USB Debug Assistant</string>
+    <string name="scan_devices">扫描设备</string>
+    <string name="device_list">设备列表</string>
+    <string name="no_device_selected">未选择设备</string>
+    <string name="send_data">发送数据</string>
+    <string name="clear_logs">清空日志</string>
+</resources>
