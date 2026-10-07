@@ -34,3 +34,9 @@ enum class USBErrorCode {
     UnsupportedDevice,
     Unknown
 };
+
+struct LogEntry {
+    std::string timestamp;
+    std::string tag;
+    std::string message;
+};

@@ -14,4 +14,9 @@ class UsbDeviceManager(private val context: Context) {
     fun sendData(data: ByteArray) {
         // TODO: send data via USB interface
     }
+
+    fun readData(): ByteArray {
+        // TODO: read data from USB interface
+        return byteArrayOf()
+    }
 }

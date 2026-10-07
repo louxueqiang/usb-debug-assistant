@@ -1,6 +1,4 @@
 #include "usb_manager.h"
 
-// Placeholder implementation for USB manager abstraction.
-// Real implementation will enumerate connected devices and wire event notifications.
-
+// Placeholder implementation for the USB manager abstraction.
 USBManager::~USBManager() = default;

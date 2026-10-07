@@ -9,6 +9,8 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 add_library(usb_core
     src/usb_device.cpp
     src/usb_manager.cpp
+    src/usb_protocol.cpp
+    src/usb_logger.cpp
 )
 
 target_include_directories(usb_core
